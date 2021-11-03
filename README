@@ -1,0 +1,4 @@
+I have created this simple metric conversion program. With the help of configcat feature toggle, I have implemented a switch between two different conversion methods.
+By turning on the feature toggle from configcat dashboard it switches to conversion 1 i.e Kilometres to miles. And by turning off the feature toggle
+it switches to conversion 2 i.e miles to kilometres.
+
